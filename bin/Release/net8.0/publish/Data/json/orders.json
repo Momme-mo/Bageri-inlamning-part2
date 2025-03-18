@@ -1,0 +1,30 @@
+[
+  {
+    "salesOrderId": 1,
+    "orderDate": "2024-09-01"
+  },
+  {
+    "salesOrderId": 2,
+    "orderDate": "2024-10-01"
+  },
+  {
+    "salesOrderId": 3,
+    "orderDate": "2024-11-01"
+  },
+  {
+    "salesOrderId": 4,
+    "orderDate": "2024-12-01"
+  },
+  {
+    "salesOrderId": 5,
+    "orderDate": "2024-12-03"
+  },
+  {
+    "salesOrderId": 6,
+    "orderDate": "2024-12-04"
+  },
+  {
+    "salesOrderId": 7,
+    "orderDate": "2024-12-04"
+  }
+]

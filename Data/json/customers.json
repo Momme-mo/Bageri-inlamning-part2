@@ -1,0 +1,20 @@
+[
+    {
+        "customerId": 1,
+        "name": "Lahmacun AB",
+        "phone": "072911900",
+        "email": "lahmacun@ab.com",
+        "contactPerson": "Nader",
+        "deliveryAddress": "Sandalvägen 9, 333 12, Malmö",
+        "invoiceAddress": "Avatargatan 14, 444 21, Malmö"
+    },
+    {
+        "customerId": 2,
+        "name": "Shakshouka",
+        "phone": "070111991",
+        "email": "shak@shouka.com",
+        "contactPerson": "Izatollah",
+        "deliveryAddress": "Costa Azzuravägen 51, 222 34, Malmö",
+        "invoiceAddress": "Skyffelgatan 44, 234 51, Malmö"
+    }
+]

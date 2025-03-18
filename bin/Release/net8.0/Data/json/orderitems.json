@@ -1,0 +1,20 @@
+[
+  {
+    "salesOrderId": 1,
+    "productId": 1,
+    "quantity": 1,
+    "price": 29.95
+  },
+  {
+    "salesOrderId": 1,
+    "productId": 2,
+    "quantity": 4,
+    "price": 32.95
+  },
+  {
+    "salesOrderId": 2,
+    "productId": 3,
+    "quantity": 12,
+    "price": 28.95
+  }
+]

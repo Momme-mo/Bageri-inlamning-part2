@@ -1,0 +1,24 @@
+[
+  {   
+      "productId":1,
+      "productName": "Bröd",
+      "itemNumber": "BR001",
+      "quantity": 3,
+      "pricePer": 20.00,
+      "weight":1.2,
+      "units": 1,
+      "bestBeforeDate": "2025-12-31",
+      "manufacturingDate": "2024-12-31"
+  },
+  {
+      "productId":2,
+      "productName": "Socker",
+      "itemNumber": "SS001",
+      "quantity": 1,
+      "pricePer": 15.00,
+      "weight": 1,
+      "units": 10,
+      "bestBeforeDate": "2025-02-01",
+      "manufacturingDate": "2025-01-10"
+  }
+]
