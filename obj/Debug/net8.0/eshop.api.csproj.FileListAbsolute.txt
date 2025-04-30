@@ -604,3 +604,4 @@ C:\Mixat\CodeC#\Bageri-Inlämning-part2\eshop.api\obj\Debug\net8.0\refint\eshop.
 C:\Mixat\CodeC#\Bageri-Inlämning-part2\eshop.api\obj\Debug\net8.0\eshop.api.pdb
 C:\Mixat\CodeC#\Bageri-Inlämning-part2\eshop.api\obj\Debug\net8.0\eshop.api.genruntimeconfig.cache
 C:\Mixat\CodeC#\Bageri-Inlämning-part2\eshop.api\obj\Debug\net8.0\ref\eshop.api.dll
+C:\Mixat\CodeC#\Bageri-Inlämning-part2\eshop.api\obj\Debug\net8.0\eshop.api.sourcelink.json

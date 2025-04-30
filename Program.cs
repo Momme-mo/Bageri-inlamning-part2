@@ -5,8 +5,19 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<DataContext>(options =>
-{   
-    options.UseSqlite(builder.Configuration.GetConnectionString("DevConnection"));  
+{
+    options.UseSqlite(builder.Configuration.GetConnectionString("DevConnection"));
+});
+
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(
+        policy =>
+        {
+            policy.WithOrigins("*")
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+        });
 });
 
 builder.Services.AddControllers();
@@ -38,6 +49,7 @@ catch (Exception ex)
 
 if (app.Environment.IsDevelopment())
 {
+    app.UseCors();
     app.UseSwagger();
     app.UseSwaggerUI();
 }
